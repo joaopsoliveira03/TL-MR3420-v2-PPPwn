@@ -1,0 +1,10 @@
+Package: uci
+Version: 2018-01-01-141b64ef-1
+Depends: libc, libuci
+Source: feeds/base/package/system/uci
+License: LGPL-2.1
+Section: base
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: mips_24kc
+Installed-Size: 6495
+Description:  Utility for the Unified Configuration Interface (UCI)

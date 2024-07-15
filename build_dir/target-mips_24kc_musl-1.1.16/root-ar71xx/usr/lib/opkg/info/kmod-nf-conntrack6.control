@@ -1,0 +1,9 @@
+Package: kmod-nf-conntrack6
+Version: 4.4.182-1
+Depends: kernel (=4.4.182-1-d576400bcaea680299b5ec5f1453a6ff), kmod-nf-conntrack
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Architecture: mips_24kc
+Installed-Size: 9153
+Description:  Netfilter IPv6 connection tracking

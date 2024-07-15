@@ -1,0 +1,10 @@
+#!/bin/sh
+
+/root/PPPwn_WRT-main && ./run.sh
+  if [ "$SEEN" -ge 3 ] ; then
+    cd /root/PPPwn_WRT-main && ./kill.sh
+  else
+    cd /root/PPPwn_WRT-main && ./run.sh
+fi
+
+return 0

@@ -1,0 +1,3 @@
+/lib/modules/4.4.182/ip6_tables.ko
+/lib/modules/4.4.182/nf_reject_ipv6.ko
+/etc/modules.d/nf-ipt6
